@@ -1,2 +1,2 @@
-# 1.Personal-First_Portfolio
+# Web Development
 First portfolio of my learning journey 
