@@ -26,4 +26,12 @@
    display: flex;
    flex-direction: row;
    align-items: center;
+   flex-wrap: wrap;
+}
+
+.spacing2 > img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
 }
